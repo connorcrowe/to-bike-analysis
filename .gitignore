@@ -3,3 +3,4 @@
 /data/*
 /results/*
 /scripts/ridership-data-to-postsql.py
+.ipynb_checkpoints/
