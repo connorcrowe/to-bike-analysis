@@ -163,6 +163,6 @@ network_layer = analyze_bike_trips(
     trips_layer, 
     stations_layer, 
     network_layer, 
-    max_trips=20000,
-    batch_size=20
+    max_trips=16650,
+    batch_size=100
 )
