@@ -5,4 +5,6 @@
 /results/images
 /results/rough
 /scripts/ridership-data-to-postsql.py
+/scripts/trip_calculator.py
+/scripts/trip_calculator_parallel.py
 .ipynb_checkpoints/
