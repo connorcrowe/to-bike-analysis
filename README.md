@@ -2,6 +2,8 @@
 
 **[Read the results on StoryMaps](https://storymaps.com/stories/977d7a48e8104952b3843b25ddda4ec3)**
 
+![](results/maps/heatmap.png)
+
 ## Overview
 The objectives of this project were to determine what Toronto Bike Share data revealed about three specific bike lanes in Toronto, Canada that are targeted for removal and to practice geospatial analysis.
 
@@ -32,14 +34,22 @@ Heatmap
 
 
 ## Process
+### Statistical Analysis in Python
+
+### Geospatial Analysis in QGIS
+
+### Heatmap Creation with PyQt
+
 
 ## Attribution
 I am not affiliated with Toronto Bike Share, the City of Toronto, or the Government of Ontario.
+
 **Tools Used**
 - QGIS
 - PyQt5
 - PostGIS & PostSQL
 - StoryMaps
+
 **Data Used**
 - Toronto Open Data - Bike Share ridership dataset
 - Toronto Open Data - Bike Share stations dataset
