@@ -27,7 +27,7 @@ Heatmap
 - In 2024, the bike share had an average of 19,500 trips per day
 - Ridership has doubled since just 2021
 - Ridership is roughly halved in the winter months and peaks in August
-- 28% of all trips occured during "rush hour" (7-9AM, 4-6PM), or 4,300 trips each day
+- 28% of all trips occurred during "rush hour" (7-9AM, 4-6PM), or 4,300 trips each day
 - 25% of bike share stations are within a 5 minute walk of the affected bike lanes
 - **58% of trips (9,000 per day) started or ended within a 5 minute walk of the affected bike lanes**
 - **14% of trips (3,000 per day) started or ended near the affected lanes during rush hour**
@@ -54,7 +54,7 @@ To create the heatmap of trips on the Toronto Bike Share, a python script was wr
 
 The script uses the QGIS native `native:shortestpathpointtopoint` method to calculate the path based on the OSM roadway network. A future analysis should explore other, potentially more optimized approaches. 
 
-Given the high volume of trips and access to only one mid-range PC, the script took significant time to process the trips, going through 200,000 in approximately 48 hours. In this project the network was prepared such that all bike share stations were connected, however if some of the stations in the further suburbs were to be disregarded, a smaller roadway network could be used - improving performance signficantly. 
+Given the high volume of trips and access to only one mid-range PC, the script took significant time to process the trips, going through 200,000 in approximately 48 hours. In this project the network was prepared such that all bike share stations were connected, however if some of the stations in the further suburbs were to be disregarded, a smaller roadway network could be used - improving performance significantly. 
 
 To overcome the large processing time, only trips during rush hour in August 2024 were used.
 
@@ -66,8 +66,8 @@ The result is, in my opinion, quite interesting. I think it provides a unique pe
 
 ## Close
 If you are interested, please consider reading the full write up I did about this project in Story Maps. If you are interested in chatting about this analysis please feel free to reach out. 
-Bluesky:
-Reddit: 
+Bluesky: [Climacity](https://bsky.app/profile/climacity.bsky.social)
+Reddit: [u/climacity](https://www.reddit.com/user/Climacity/)
 
 ## Attribution
 I am not affiliated with Toronto Bike Share, the City of Toronto, or the Government of Ontario.
@@ -81,4 +81,4 @@ I am not affiliated with Toronto Bike Share, the City of Toronto, or the Governm
 **Data Used**
 - Toronto Open Data - Bike Share ridership dataset
 - Toronto Open Data - Bike Share stations dataset
-- OpenStreetMap - Highway key for raodway network
+- OpenStreetMap - Highway key for roadway network
