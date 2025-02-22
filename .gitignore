@@ -5,9 +5,9 @@
 /results/rough
 /results/shapefiles
 
-/scripts/ridership-data-to-postsql.py
+/scripts/attic/ridership-data-to-postsql.py
 /scripts/trip_calculator.py
-/scripts/trip_calculator_parallel.py
+/scripts/attic/trip_calculator_parallel.py
 /scripts/batch_benchmarking.py
 
 .ipynb_checkpoints/

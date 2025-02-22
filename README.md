@@ -50,7 +50,7 @@ This project analyzed ridership data from the Toronto Bike Share (2016-2024) to 
 **Heatmap**
 ![](results/maps/heatmap.png)
 
-*Full results available in the [StoryMap](https://storymaps.com/stories/977d7a48e8104952b3843b25ddda4ec3)
+*Full results available in the [StoryMap](https://storymaps.com/stories/977d7a48e8104952b3843b25ddda4ec3)*
 
 ## Data Sources
 - Bike Share ridership dataset - [City of Toronto Open Data](https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/)
