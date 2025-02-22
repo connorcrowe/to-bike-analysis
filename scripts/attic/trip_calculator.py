@@ -90,4 +90,4 @@ stations_layer = QgsProject.instance().mapLayersByName('stations')[0]
 network_layer = QgsProject.instance().mapLayersByName('network')[0]
 
 # Calculate paths
-paths_layer = calculate_bike_trips(trips_layer, stations_layer, network_layer, 500)
+paths_layer = calculate_bike_trips(trips_layer, stations_layer, network_layer, 20)
