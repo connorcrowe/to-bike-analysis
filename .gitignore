@@ -1,7 +1,6 @@
 .env
 
 /data/*
-/results/charts
 /results/images
 /results/rough
 /results/shapefiles
