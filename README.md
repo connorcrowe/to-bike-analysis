@@ -12,8 +12,6 @@ This project analyzed ridership data from the Toronto Bike Share (2016-2024) to 
 - **Programming & Data Processing:** Python, PyQGIS, PyQt5, Pandas
 - **Visualization & Mapping:** QGIS, Plotly, StoryMaps
 
-## Key Insights
-
 ## Methodology
 **1. Data Acquisition & Storage**
 - ***Bike Share Ridership and Station Locations:*** City of Toronto Open Data
